@@ -1,0 +1,23 @@
+{
+  "development": {
+    "username": "flatironschool",
+    "password": "learnlovecode",
+    "database": "secure_node",
+    "host": "127.0.0.1",
+    "dialect": "postgres"
+  },
+  "test": {
+    "username": "me",
+    "password": "password",
+    "database": "secure_node",
+    "host": "127.0.0.1",
+    "dialect": "postgres"
+  },
+  "production": {
+    "username": "me",
+    "password": "password",
+    "database": "secure_node",
+    "host": "127.0.0.1",
+    "dialect": "postgres"
+  }
+}
